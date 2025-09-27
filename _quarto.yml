@@ -3,17 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "AI Engineering"
+  title: "Articial Intelligence"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: LLM_building.qmd
+        text: LLM building
       - href: AI Engineering.qmd
-        text: AI
+        text: AI Engineering
 
 format:
   html:
-    theme: sandstone
+    theme: zephyr
     mainfont: arial
     fontsize: 1.5rem
     fontcolor: "#0013d5"
