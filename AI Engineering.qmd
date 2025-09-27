@@ -1,0 +1,5 @@
+---
+title: "AI Engineering"
+---
+
+**Artificial intelligence engineering** (**AI engineering**) is a technical discipline that focuses on the design, development, and deployment of [AI](https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial intelligence") systems. AI engineering involves applying [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") principles and methodologies to create scalable, efficient, and reliable AI-based solutions. It merges aspects of [data engineering](https://en.wikipedia.org/wiki/Data_engineering "Data engineering") and [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering") to create real-world applications in diverse domains such as healthcare, finance, autonomous systems, and industrial automation. 
