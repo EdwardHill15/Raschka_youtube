@@ -13,6 +13,7 @@ website:
       - href: AI Engineering.qmd
         text: AI Engineering
       - href: blog/index.qmd
+      - contact.qmd
     tools:
       - icon: github
         href: https://github.com/EdwardHill15/Raschka_youtube
