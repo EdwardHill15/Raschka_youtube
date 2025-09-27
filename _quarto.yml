@@ -3,19 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Raschka_youtube"
+  title: "AI Engineering"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - AI Engineering.qmd
+      - href: AI Engineering.qmd
+        text: AI
 
 format:
   html:
-    theme:
-      - sandstone
-    css: styles.css
-    toc: true
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
+    monofont: courier new
 
 
 
