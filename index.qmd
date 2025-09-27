@@ -2,6 +2,10 @@
 title: "Sebastian Raschka's Youtube Lessons on Building LLMs from Scratch"
 ---
 
+[Build a Large Language Model from Scratch](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsebastianraschka.com%2Fbooks%2F&psig=AOvVaw0jUv8cXsRW9YVhlS8k-yn0&ust=1759055370431000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjZ94ne-I8DFQAAAAAdAAAAABAE)
+
+
+
 <br>
 <br>
 
