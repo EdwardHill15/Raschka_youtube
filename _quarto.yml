@@ -4,22 +4,27 @@ project:
 
 website:
   title: "Articial Intelligence"
+  page-footer: "Made by Edward F. Hillenaar with Quarto, Github pages and Netlify"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    title: Edward F. Hillenaar
+    right:
       - href: LLM_building.qmd
         text: LLM building
       - href: AI Engineering.qmd
         text: AI Engineering
+      - href: blog/index.qmd
+    tools:
+      - icon: github
+        href: https://github.com/EdwardHill15/Raschka_youtube
 
 format:
   html:
+    backgroundcolor: "#e8f4f8"
     theme: zephyr
     mainfont: arial
     fontsize: 1.5rem
-    fontcolor: "#0013d5"
-    linkcolor: "#ff33f0"
+    fontcolor: "darkblue"
+    linkcolor: "blue"
     monofont: courier new
 
 

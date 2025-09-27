@@ -12,7 +12,7 @@ about:
       href: mailto:totalegezondheidbv@gmail.com
     - icon: github
       text: Github
-      href: https://github.com/EdwardHill15
+      href: https://github.com/EdwardHill15/Raschka_youtube
     - text: resume
       icon: file-text
       href: resume.pdf
