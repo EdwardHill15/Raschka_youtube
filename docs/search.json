@@ -54,5 +54,12 @@
     "title": "Contact",
     "section": "",
     "text": "Contact\n     \n    \n    \n        \n            \n                Mail me\n                \n            \n            \n            \n            \n            \n            Send"
+  },
+  {
+    "objectID": "Streamlit_building.html",
+    "href": "Streamlit_building.html",
+    "title": "How to Build a Streamlit App",
+    "section": "",
+    "text": "VIDEO 1. How to Build a Streamlit App (Beginner level Streamlit tutorial) - Part\nVIDEO 2. How to Collect User Input with Streamlit - Part 2\nVIDEO 3. How to Integrate Machine Learning to Streamlit - Part 3\nVIDEO 4. How to Deploy a Streamlit App - Part 4"
   }
 ]

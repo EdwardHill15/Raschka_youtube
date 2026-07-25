@@ -13,6 +13,8 @@ website:
       - href: AI Engineering.qmd
         text: AI Engineering
       - href: blog/index.qmd
+      - href: Streamlit_building.qmd
+        text: Streamlit building
       - contact.qmd
     tools:
       - icon: github
